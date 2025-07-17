@@ -5,7 +5,7 @@
 - 🌱 Currently using React, NodeJs
 - 📱 I do UI/UX Design
 - 💞️ I’m looking to collaborate with Computer Engineers, Computer Scientist, Software Engineers, Information Technologists
-- 👨🏻‍💻 Visit me on https://hosefh.github.io/Portfolio/ and tell me how you feel, I'll be happy to hear 🫡
+- 👨🏻‍💻 Visit me on https://joseph-dev.vercel.app/ and tell me how you feel, I'll be happy to hear 🫡
 
 <!---
 Hosefh/Hosefh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
