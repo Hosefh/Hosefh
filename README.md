@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Hosefh
 - 👀 I’m interested in Web Development
-- 🌱 Currently using React, NodeJs, ExpressJs, React Native, Expo, MongoDB, MySQL, Firebase, Laravel
+- 🌱 Currently using React, NextJs, NodeJs, ExpressJs, React Native, Expo, MongoDB, MySQL, Firebase, Laravel
 - 📱 I do mobile app development
 - 👨🏻‍💻 Visit me on https://joseph-dev.vercel.app/ and tell me how you feel, I'll be happy to hear 🫡
 
