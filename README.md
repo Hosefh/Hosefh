@@ -1,7 +1,7 @@
 ![programmer](https://user-images.githubusercontent.com/112525937/205791225-57ae24b4-36e6-4082-b20e-7388cb82ad12.gif)
 
 - 👋 Hi, I’m @Hosefh
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web and Mobile App Development
 - 🌱 Currently using React, NextJs, NodeJs, ExpressJs, React Native, Expo, MongoDB, MySQL, Firebase, Laravel
 - 📱 I do mobile app development
 - 👨🏻‍💻 Visit me on https://joseph-dev.vercel.app/ and tell me how you feel, I'll be happy to hear 🫡
