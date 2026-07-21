@@ -38,8 +38,11 @@
 <a href="https://joseph-dev.vercel.app/">
   <img src="https://joseph-dev.vercel.app/_next/image?url=%2Fprojects%2Femergency-app.png&w=640&q=75&theme=tokyonight" />
 </a>
-<a href="https://github.com/Hosefh/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hosefh&repo=REPO_NAME_2&theme=tokyonight" />
+<a href="https://joseph-dev.vercel.app/">
+  <img src="https://joseph-dev.vercel.app/_next/image?url=%2Fprojects%2FUgoSales.gif&w=640&q=75&theme=tokyonight" />
+</a>
+<a href="https://joseph-dev.vercel.app/">
+  <img src="https://joseph-dev.vercel.app/_next/image?url=%2Fprojects%2FUGO.gif&w=640&q=75&theme=tokyonight" />
 </a>
 
 </div>
