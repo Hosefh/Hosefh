@@ -18,13 +18,14 @@
 
 ---
 
-### 👋 About Me
+### 👋 What I Build
 
-- 🔭 Building web & mobile apps with **React, Next.js, Node.js & Express**
-- 📱 Native/cross-platform experience with **React Native + Expo**
-- 🗄️ Comfortable across **MongoDB, MySQL, Firebase, and Laravel**
-- 🌱 Currently sharpening skills in scalable full-stack architecture
-- 💬 Ask me about React, mobile dev, or building MVPs fast
+- 🏛 Government Information Systems
+- 🏢 Business Management Platforms
+- 📊 Workflow Automation Tools
+- 🛒 Booking & POS Systems
+- 📱 Mobile Applications
+- 🤖 AI-powered Solutions
 - 📫 Reach me: **loremiahosefh@gmail.com** · [Portfolio →](https://joseph-dev.vercel.app/)
 
 ---
