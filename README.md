@@ -36,7 +36,7 @@
 <div align="center">
 
 <a href="https://joseph-dev.vercel.app/">
-  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Hosefh&repo=REPO_NAME_1](https://joseph-dev.vercel.app/_next/image?url=%2Fprojects%2Femergency-app.png&w=640&q=75)&theme=tokyonight" />
+  <img src="https://joseph-dev.vercel.app/_next/image?url=%2Fprojects%2Femergency-app.png&w=640&q=75&theme=tokyonight" />
 </a>
 <a href="https://github.com/Hosefh/REPO_NAME_2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hosefh&repo=REPO_NAME_2&theme=tokyonight" />
