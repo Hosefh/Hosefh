@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Hosefh/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hosefh&repo=REPO_NAME_1&theme=tokyonight" />
+<a href="https://joseph-dev.vercel.app/">
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Hosefh&repo=REPO_NAME_1](https://joseph-dev.vercel.app/_next/image?url=%2Fprojects%2Femergency-app.png&w=640&q=75)&theme=tokyonight" />
 </a>
 <a href="https://github.com/Hosefh/REPO_NAME_2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hosefh&repo=REPO_NAME_2&theme=tokyonight" />
@@ -44,8 +44,9 @@
 
 </div>
 
+<!---
 > 💡 **Tip:** Under each pinned repo's own README, add a screenshot/GIF, a live demo link, and a 2-line "problem it solves." That's what actually gets employers to click through.
-
+--->
 ---
 
 ### 🛠️ Tech Stack
@@ -59,6 +60,7 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 <br/>
+<img src="https://img.shields.io/badge/Supabase-47A248?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -81,14 +83,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hosefh&theme=tokyo-night&hide_border=true"/>
 
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hosefh&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
