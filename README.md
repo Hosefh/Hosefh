@@ -1,21 +1,105 @@
-![programmer](https://user-images.githubusercontent.com/112525937/205791225-57ae24b4-36e6-4082-b20e-7388cb82ad12.gif)
+<div align="center">
 
-### My GitHub Stats
-![GitHub Stats](https://vercel.app)
+<img src="https://user-images.githubusercontent.com/112525937/205791225-57ae24b4-36e6-4082-b20e-7388cb82ad12.gif" width="500"/>
 
-### Top Languages
-![Top Languages](https://vercel.app)
+<!-- Typing animation intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Joseph+(Hosefh);Web+%26+Mobile+App+Developer;React+%7C+Next.js+%7C+Node.js+%7C+React+Native;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### Tech Stack & Tools
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+### 📱 Web & Mobile App Developer | React • Next.js • Node.js • React Native
 
-- 👋 Hi, I’m @Hosefh
-- 👀 I’m interested in Web and Mobile App Development
-- 🌱 Currently using React, NextJs, NodeJs, ExpressJs, React Native, Expo, MongoDB, MySQL, Firebase, Laravel
-- 📱 I do mobile app development
-- 👨🏻‍💻 Visit me on https://joseph-dev.vercel.app/ and tell me how you feel, I'll be happy to hear 🫡
+<a href="https://joseph-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://joseph-dev.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+
+</div>
+
+---
+
+### 👋 About Me
+
+- 🔭 Building web & mobile apps with **React, Next.js, Node.js & Express**
+- 📱 Native/cross-platform experience with **React Native + Expo**
+- 🗄️ Comfortable across **MongoDB, MySQL, Firebase, and Laravel**
+- 🌱 Currently sharpening skills in scalable full-stack architecture
+- 💬 Ask me about React, mobile dev, or building MVPs fast
+- 📫 Reach me: **your-email@example.com** · [Portfolio →](https://joseph-dev.vercel.app/)
+
+---
+
+### 🚀 Featured Projects
+
+<!-- ⚠️ Replace these 3 with your real repos — this section matters most to employers -->
+
+<div align="center">
+
+<a href="https://github.com/Hosefh/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hosefh&repo=REPO_NAME_1&theme=tokyonight" />
+</a>
+<a href="https://github.com/Hosefh/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hosefh&repo=REPO_NAME_2&theme=tokyonight" />
+</a>
+
+</div>
+
+> 💡 **Tip:** Under each pinned repo's own README, add a screenshot/GIF, a live demo link, and a 2-line "problem it solves." That's what actually gets employers to click through.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hosefh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosefh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Hosefh&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hosefh&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hosefh&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hosefh&color=blueviolet&style=flat-square&label=Profile+Views)
+
+**Visit me at [joseph-dev.vercel.app](https://joseph-dev.vercel.app/) — I'd love to hear your feedback! 🫡**
+
+</div>
 
 <!---
 Hosefh/Hosefh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
