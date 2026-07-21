@@ -10,8 +10,8 @@
 ### 📱 Web & Mobile App Developer | React • Next.js • Node.js • React Native
 
 <a href="https://joseph-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:loremiahosefh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/joseph-brendon-jon-loremia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://joseph-dev.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 
 </div>
@@ -25,7 +25,7 @@
 - 🗄️ Comfortable across **MongoDB, MySQL, Firebase, and Laravel**
 - 🌱 Currently sharpening skills in scalable full-stack architecture
 - 💬 Ask me about React, mobile dev, or building MVPs fast
-- 📫 Reach me: **your-email@example.com** · [Portfolio →](https://joseph-dev.vercel.app/)
+- 📫 Reach me: **loremiahosefh@gmail.com** · [Portfolio →](https://joseph-dev.vercel.app/)
 
 ---
 
