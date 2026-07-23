@@ -48,10 +48,10 @@
   <img src="https://joseph-dev.vercel.app/_next/image?url=%2Fprojects%2FUGO.gif&w=640&q=75&theme=tokyonight" />
 </a>
 <a href="https://joseph-dev.vercel.app/">
-  <img src="https://youtu.be/KmKA5Xvg03w&theme=tokyonight" />
+  <img src="https://www.youtube.com/watch?v=KmKA5Xvg03w&theme=tokyonight" />
 </a>
 <a href="https://joseph-dev.vercel.app/">
-  <img src="https://youtu.be/tTAHi2OoLF0&theme=tokyonight" />
+  <img src="https://www.youtube.com/watch?v=tTAHi2OoLF0&theme=tokyonight" />
 </a>
 
 </div>
